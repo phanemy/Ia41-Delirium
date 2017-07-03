@@ -1,0 +1,35 @@
+<Map Name="DefaultMap_1A" Width="21" Height="13">
+ <Data>
+  "      .,      .,      .,      .,      .,   Diam,      .,      .,    StW,    StW,      .,      .,   Diam,      .,    StW,      .,      .,      .,      .,   Diam,      ."
+  "      .,    StW,    StW,    StW,    StW,    StW,    StW,      .,    StW,      .,      .,      .,      .,      .,      .,      .,    StW,      .,      .,      .,      ."
+  "      .,    StW,      .,      .,      .,      .,      .,      .,    StW,      .,      .,    StW,    StW,    StW,      .,      .,    StW,      .,      .,      .,      ."
+  "      .,    StW,      .,    StW,    StW,    StW,      .,      .,    StW,      .,      .,    StW,      .,      .,    StW,      .,    StW,      .,      .,   Diam,      ."
+  "      .,    StW,      .,    StW,   Diam,    StW,      .,      .,      .,      .,      .,    StW,      .,      .,      .,      .,      .,      .,      .,      .,      ."
+  "      .,      .,      .,      .,      .,    StW,      .,      .,    StW,    StW,    StW,    StW,   Diam,      .,    StW,    StW,      .,    StW,    StW,      .,      ."
+  "      .,      .,      .,      .,      .,   Diam,      .,      .,    Stw,   Diam,      .,    StW,   Diam,      .,      .,      .,      .,      .,      .,   Diam,      ."
+  "      .,    StW,    StW,    StW,    StW,    StW,    StW,      .,    StW,    StW,      .,    StW,      .,      .,      .,      .,      .,      .,      .,      .,      ."
+  "      .,    StW,      .,      .,      .,      .,      .,      .,      .,      .,      .,    StW,    StW,    StW,      .,      .,      .,   Diam,      .,    StW,      ."
+  "      .,    StW,      .,    StW,    StW,    StW,      .,      .,      .,      .,      .,    StW,   Diam,      .,      .,      .,      .,      .,      .,   Diam,      ."
+  "      .,    StW,      .,    StW,   Diam,    StW,      .,    StW,      .,    StW,    StW,    StW,    StW,      .,      .,      .,      .,      .,      .,      .,      ."
+  "      .,      .,      .,      .,      .,    StW,      .,      .,      .,      .,      .,      .,    StW,      .,      .,      .,      .,      .,      .,      .,      ."
+  "      .,      .,      .,      .,      .,      .,   Exit,      .,      .,      .,      .,      .,   Diam,      .,      .,      .,      .,      .,      .,   Diam,      ."
+ </Data>
+
+ <Parameters GameDifficulty="Easy">
+  <Gravity Direction="Down" />
+
+  <Gateways>
+   "1,1"
+   "7,1"
+  </Gateways>
+
+  <Goals Time="-1">
+    <Goal Gather="16" Item="Diam" Points="10" />
+  </Goals>
+
+  <ItemProperties>
+    <Item Name="StW" Sturdiness="1" />
+  </ItemProperties>
+ </Parameters>
+
+</Map>

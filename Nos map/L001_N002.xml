@@ -1,0 +1,26 @@
+<Map Name="DefaultMap_1A" Width="5" Height="4">
+ <Data>
+"      .,       ,      .,      .,   Diam"
+"  Stone,      .,      .,   Diam,  Stone"
+"   Diam,      .,       ,       ,      ."
+"   Diam,   Diam,       ,       ,   Exit"
+ </Data>
+
+ <Parameters GameDifficulty="Easy">
+  <Gravity Direction="Down" />
+
+  <Gateways>
+   "1,1"
+   "7,1"
+  </Gateways>
+
+  <Goals Time="-1">
+    <Goal Gather="5" Item="Diam" Points="10" />
+  </Goals>
+
+  <ItemProperties>
+    <Item Name="StW" Sturdiness="1" />
+  </ItemProperties>
+ </Parameters>
+
+</Map>

@@ -1,0 +1,45 @@
+<Map Name="DefaultMap_1B" Width="38" Height="22">
+
+ <Data>
+  "      .,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,       ,    StW,    StW,       ,    StW,    StW,    StW,      .,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW"
+  "   Diam,    StW,      .,      .,      .,      .,      .,    StW,      .,    StW,      .,      .,      .,    StW,    StW,    StW,    StW,       ,      .,      .,       ,    StW,    StW,    StW,    StW,   Diam,      .,      .,   Diam,      .,      .,      .,   Diam,   Diam,    StW,    StW,    StW,    StW"
+  "      .,    StW,      .,      .,      .,      .,      .,    StW,      .,    StW,      .,      .,    StW,    StW,    StW,    StW,      .,       ,       ,       ,       ,      .,    StW,    StW,    StW,    StW,      .,      .,      .,      .,      .,      .,    StW,    StW,      .,      .,    StW,    StW"
+  "      .,      .,      .,      .,      .,      .,      .,      .,    StW,      .,      .,      .,    StW,    StW,      .,    StW,      .,       ,       ,       ,       ,      .,      .,      .,      .,      .,      .,      .,    StW,      .,    StW,    StW,    StW,    StW,      .,      .,      .,      ."
+  "      .,      .,      .,      .,      .,      .,    StW,      .,      .,      .,      .,      .,      .,      .,      .,    StW,      .,       ,       ,       ,       ,      .,      .,      .,    StW,    StW,       ,       ,      .,      .,      .,      .,      .,      .,      .,      .,      .,      ."
+  "      .,      .,   Diam,    StW,      .,      .,      .,    StW,      .,      .,      .,    StW,       ,    StW,      .,      .,      .,       ,       ,       ,       ,    StW,      .,    StW,    StW,    StW,      .,    StW,    StW,      .,    StW,    StW,      .,      .,      .,      .,      .,      ."
+  "      .,    StW,    StW,    StW,    StW,      .,      .,    StW,    StW,      .,      .,    StW,      .,    StW,      .,    StW,      .,       ,       ,       ,       ,    StW,    StW,      .,    StW,    StW,      .,      .,   Diam,   Diam,   Diam,   Diam,    StW,       ,       ,      .,   Diam,   Diam"
+  "      .,      .,      .,   Diam,    StW,    StW,      .,   Diam,      .,    StW,      .,    StW,       ,    StW,      .,      .,      .,       ,    StW,   Diam,       ,      .,    StW,      .,    StW,    StW,      .,    StW,    StW,    StW,    StW,    StW,    StW,      .,      .,      .,      .,      ."
+  "    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,       ,      .,      .,       ,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW"
+  "      .,      .,      .,      .,    StW,      .,      .,      .,      .,      .,      .,    StW,    StW,    StW,    StW,    StW,      .,       ,       ,       ,       ,      .,      .,      .,    StW,   Diam,    StW,      .,    StW,   Diam,   Diam,    StW,    StW,   Diam,    StW,    StW,      .,      ."
+  "      .,      .,      .,      .,      .,      .,      .,      .,      .,    StW,   Diam,      .,      .,    StW,      .,    StW,      .,       ,       ,       ,       ,      .,    StW,      .,      .,      .,      .,      .,      .,      .,   Diam,      .,   Diam,      .,      .,      .,      .,      ."
+  "   Diam,    StW,      .,      .,      .,    StW,   Diam,      .,      .,      .,      .,      .,      .,      .,      .,    StW,      .,       ,       ,       ,       ,      .,      .,      .,    StW,      .,      .,      .,      .,      .,    StW,      .,    StW,      .,      .,      .,      .,    StW"
+  "    StW,    StW,    StW,      .,      .,      .,    StW,      .,      .,      .,      .,      .,   Diam,    StW,      .,      .,      .,       ,    StW,       ,       ,    StW,      .,      .,    StW,    StW,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,    StW"
+  "    StW,      .,   Diam,   Diam,      .,      .,      .,      .,    StW,    StW,      .,    StW,    StW,    StW,    StW,    StW,      .,       ,    StW,    StW,       ,      .,      .,    StW,    StW,   Diam,   Diam,      .,      .,      .,    StW,    StW,      .,      .,      .,      .,      .,   Diam"
+  "    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,       ,      .,      .,       ,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW,    StW"
+  "      .,      .,      .,    StW,     .,        ,       ,       ,       ,       ,      .,      .,    StW,    StW,    StW,    StW,      .,       ,       ,       ,       ,      .,    StW,    StW,    StW,    StW,   Diam,      .,      .,      .,      .,    StW,    StW,    StW,    StW,      .,   Diam,       "
+  "   Diam,      .,      .,      .,      .,      .,      .,      .,      .,    StW,      .,    StW,    StW,    StW,    StW,      .,    StW,       ,       ,       ,       ,      .,      .,    StW,    StW,   Diam,    StW,   Diam,      .,      .,      .,    StW,    StW,    StW,    StW,      .,   Diam,    StW"
+  "   Diam,      .,      .,      .,      .,    StW,    StW,      .,      .,      .,      .,      .,      .,    StW,      .,      .,      .,       ,       ,       ,       ,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,   Diam,   Diam,    StW,      .,   Diam,   Diam"
+  "   Diam,      .,    StW,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,      .,       ,       ,       ,       ,      .,      .,      .,    StW,      .,      .,      .,      .,      .,      .,    StW,    StW,    StW,    StW,      .,      .,      ."
+  "    StW,      .,   Diam,      .,      .,      .,      .,      .,      .,      .,      .,    StW,    StW,    StW,    StW,      .,      .,       ,       ,       ,       ,      .,      .,      .,    StW,      .,    StW,      .,      .,      .,      .,    StW,    StW,    StW,    StW,      .,      .,      ."
+  "   Diam,      .,   Diam,   Diam,      .,      .,    StW,   Diam,      .,      .,    StW,    StW,    StW,    StW,      .,       ,      .,       ,       ,       ,       ,    StW,       ,    StW,    StW,    StW,    StW,    StW,      .,      .,      .,      .,      .,    StW,    StW,      .,      .,      ."
+  "    StW,    StW,   Diam,   Diam,    StW,      .,   Diam,   Diam,       ,      .,      .,      .,    StW,    StW,      .,   Exit,    StW,       ,       ,       ,       ,      .,    StW,    StW,    StW,    StW,   Diam,   Diam,   Diam,      .,      .,      .,      .,      .,      .,      .,      .,      ."
+ </Data>
+
+ <Parameters GameDifficulty="Easy">
+  <Gravity Direction="Down" />
+
+  <Gateways>
+   "1,1"
+   "23,21"
+  </Gateways>
+
+  <Goals Time="-1">
+    <Goal Gather="40" Item="Diam" Points="15" />
+  </Goals>
+
+  <ItemProperties>
+    <Item Name="StW" Sturdiness="1" />
+  </ItemProperties>
+ </Parameters>
+
+</Map>
